@@ -1,11 +1,15 @@
 ## TITLE
 
-Write a Python code which will get all articles, blogs, news related to the inputed cryptocurrency.
+Task is to build a ToDo application with authentication using Django Web Framework 
+
 
 ## Installation
 PyPl
 ``` bash 
-pip install beautifulsoup4
+pip install Django
+cd C:\Django
+cd Todo
+python manage.py runserver
 ```
 
 
